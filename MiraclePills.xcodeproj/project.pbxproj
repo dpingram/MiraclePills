@@ -510,6 +510,7 @@
 				029020511D631F7800A3811D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		029020521D631F7800A3811D /* Build configuration list for PBXNativeTarget "MiraclePillsTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +519,7 @@
 				029020541D631F7800A3811D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		029020551D631F7800A3811D /* Build configuration list for PBXNativeTarget "MiraclePillsUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +528,7 @@
 				029020571D631F7800A3811D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
